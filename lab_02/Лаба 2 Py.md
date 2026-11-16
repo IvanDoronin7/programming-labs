@@ -67,7 +67,7 @@
 
   
 **Код выполненного задания и пояснения к нему:**
-  
+  ```python
 def analyze\_power\_quality(u\_list):  
 lowV = 0  
 highV = 0
@@ -86,7 +86,7 @@ return deviations / total < 0.05
   
 u\_list = \[220, 205, 230, 260\]  
 print(analyze\_power\_quality(u\_list))
-
+```
   
 u\_list – взятые для анализа показатели напряжения
 
