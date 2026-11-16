@@ -68,7 +68,7 @@ get\_unique\_warnings(warning\_events) — формирует множество
 
   
 **Файл variant\_mod.py**
-
+```python
   
 def find\_hotspots(rack\_dict, max\_temp=35.0):
 
@@ -127,10 +127,10 @@ event\["rack\_id"\]
 for event in warning\_events
   
 }
-  
+  ```
 **Файл main.py**
 
-  
+  ```python
 import sys
   
 from variant\_mod import (
@@ -209,7 +209,7 @@ print("Уникальные аварийные стойки:", unique\_warnings)
 if \_\_name\_\_ == "\_\_main\_\_":
   
 main()
-  
+  ```
 **Анализ работы программы**
   
 После запуска главной программы выполняется импорт функций из модуля variant\_mod.py. Далее задаётся допустимый температурный предел. Если пользователь не передал собственное значение, используется стандартное значение 35 °C.
