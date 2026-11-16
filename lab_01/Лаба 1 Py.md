@@ -35,14 +35,9 @@
 
 
 <!-- Start of picture text -->
-3aHoH Oma nA nonHoa uenH: |= E_emf /(R +r)<br><!-- End of picture text -->
-
+Закон Ома для полной цепи: |= E_emf /(R +r)
 Используя следующие данные: 
-
-
-
-<!-- Start of picture text -->
-E_emfe 24.0, Rm125,r005<br><!-- End of picture text -->
+E_emf = 24.0, R = 12.5, r = 0.5
 
 # **Код выполненного задания и пояснения к нему:** 
 ```
