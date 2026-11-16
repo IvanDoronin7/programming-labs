@@ -60,13 +60,9 @@ format(I, ".4f") - форматирует число:
 
 
 
-<!-- Start of picture text -->
-I= Eemf / (R +r<br><!-- End of picture text -->
+![Фото 1](../лаба1_скрин1.png)
 
-
-
-<!-- Start of picture text -->
-Cuna ToKa B wenw I = 1.8462 A<br><!-- End of picture text -->
+![Фото 1](../лаба1_скрин2.png)
 
 # **Заключение и вывод** 
 
